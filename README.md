@@ -1,5 +1,12 @@
 # MechaCar_Statistical_Analysis
 
+
+
+
+<img width="1267" alt="Screen Shot 2022-06-01 at 3 11 13 PM" src="https://user-images.githubusercontent.com/95730183/171502529-f3a00d70-003e-4ede-a0ab-07e200838514.png">
+
+
+
 ## Linear Regression to Predict MPG
 
 The vehicle length, and vehicle ground clearance are statistically likely to provide non-random amounts of variance to the model. The vehicle weight, spoiler angle,  (AWD) have p-Values that indicate a random amount of variance with the dataset.
